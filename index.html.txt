@@ -1,0 +1,648 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Amna Khalid | Digital Marketing Portfolio</title>
+
+<meta name="description" content="Digital Marketing Portfolio of Amna Khalid">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+
+<link rel="stylesheet" href="https://unpkg.com/aos@2.3.4/dist/aos.css">
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<!-- Loader -->
+
+<div id="loader">
+    <div class="spinner"></div>
+</div>
+
+<!-- Scroll Progress -->
+
+<div id="progress-bar"></div>
+
+<!-- =========================
+HEADER
+========================= -->
+
+<header>
+
+<nav class="navbar">
+
+<a href="#home" class="logo">
+
+A<span>.</span>
+
+</a>
+
+<ul class="nav-links">
+
+<li><a href="#home">Home</a></li>
+
+<li><a href="#about">About</a></li>
+
+<li><a href="#skills">Skills</a></li>
+
+<li><a href="#experience">Experience</a></li>
+
+<li><a href="#education">Education</a></li>
+
+<li><a href="#project">Project</a></li>
+
+<li><a href="#certificates">Certificates</a></li>
+
+<li><a href="#contact">Contact</a></li>
+
+</ul>
+
+<div id="menu-btn">
+<i class="fa-solid fa-bars"></i>
+</div>
+
+</nav>
+
+</header>
+
+<!-- =========================
+HERO
+========================= -->
+
+<section class="hero" id="home">
+
+<div class="container">
+
+<div class="hero-content" data-aos="fade-up">
+
+<p class="small-title">
+
+WELCOME TO MY PORTFOLIO
+
+</p>
+
+<h1>
+
+Amna Khalid
+
+</h1>
+
+<h2>
+
+<span class="typing"></span>
+
+</h2>
+
+<p>
+
+Motivated and detail-oriented Digital Marketing graduate with hands-on experience in Shopify Store Development, Social Media Marketing, Meta Pixel setup and Basic SEO. Passionate about learning, creating modern e-commerce solutions and growing businesses through digital marketing. Seeking an internship where I can learn, contribute and build my professional career.
+
+</p>
+
+<div class="hero-buttons">
+
+<a href="#project" class="btn">
+
+View Project
+
+</a>
+
+<a href="images/cv.pdf" download class="btn-outline">
+
+Download CV
+
+</a>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+<!-- =========================
+ABOUT
+========================= -->
+
+<section class="section" id="about">
+
+<div class="container">
+
+<div class="section-title">
+
+<h2>About Me</h2>
+
+</div>
+
+<div class="about-grid">
+
+<div class="about-card" data-aos="fade-up">
+
+<p>
+
+Motivated and detail-oriented Digital Marketing graduate with hands-on experience in SEO, Shopify Store Development, Social Media Marketing and Meta Pixel setup through practical training and academic projects. Passionate about creating modern digital solutions and helping businesses grow online. :contentReference[oaicite:0]{index=0}
+
+</p>
+
+<p>
+
+I enjoy learning new technologies, solving problems and building responsive websites and Shopify stores. I am looking for an opportunity where I can continue learning, improve my practical skills and contribute to business growth as a Digital Marketing Intern. :contentReference[oaicite:1]{index=1}
+
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- =========================
+SKILLS
+========================= -->
+
+<section class="section" id="skills">
+
+<div class="container">
+
+<div class="section-title">
+
+<h2>Professional Skills</h2>
+
+</div>
+
+<div class="skills-grid">
+
+<div class="skill-card" data-aos="zoom-in">
+
+<i class="fa-brands fa-shopify"></i>
+
+<h3>Shopify Store Management</h3>
+
+</div>
+
+<div class="skill-card" data-aos="zoom-in">
+
+<i class="fa-solid fa-chart-line"></i>
+
+<h3>Basic SEO</h3>
+
+</div>
+
+<div class="skill-card" data-aos="zoom-in">
+
+<i class="fa-brands fa-meta"></i>
+
+<h3>Meta Pixel Setup</h3>
+
+</div>
+
+<div class="skill-card" data-aos="zoom-in">
+
+<i class="fa-brands fa-facebook"></i>
+
+<h3>Social Media Marketing</h3>
+
+</div>
+
+<div class="skill-card" data-aos="zoom-in">
+
+<i class="fa-solid fa-magnifying-glass"></i>
+
+<h3>Keyword Research</h3>
+
+</div>
+
+<div class="skill-card" data-aos="zoom-in">
+
+<i class="fa-solid fa-palette"></i>
+
+<h3>Canva</h3>
+
+</div>
+
+<div class="skill-card" data-aos="zoom-in">
+
+<i class="fa-solid fa-layer-group"></i>
+
+<h3>Theme Customization</h3>
+
+</div>
+
+<div class="skill-card" data-aos="zoom-in">
+
+<i class="fa-solid fa-file-word"></i>
+
+<h3>Microsoft Office</h3>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+<!-- =========================
+EXPERIENCE
+========================= -->
+
+<section class="section" id="experience">
+
+<div class="container">
+
+<div class="section-title">
+
+<h2>Experience</h2>
+
+</div>
+
+<div class="timeline">
+
+<div class="timeline-box" data-aos="fade-up">
+
+<h3>Computer Teacher</h3>
+
+<span>2024 – 2025 | The Royal School Gojra</span>
+
+<p>
+
+Worked as a Computer Teacher, preparing lesson plans, conducting classroom activities and helping students develop computer skills. This role strengthened my communication, classroom management and problem-solving abilities. :contentReference[oaicite:0]{index=0}
+
+</p>
+
+</div>
+
+<div class="timeline-box" data-aos="fade-up">
+
+<h3>Shopify E-Commerce Project</h3>
+
+<span>Corvit System FSD</span>
+
+<p>
+
+Developed a complete Shopify e-commerce store including theme customization, product listings, collections, navigation setup, responsive pages, Meta Pixel integration and basic SEO optimization. :contentReference[oaicite:1]{index=1}
+
+</p>
+
+</div>
+
+<div class="timeline-box" data-aos="fade-up">
+
+<h3>Social Media Marketing Project</h3>
+
+<span>Corvit System FSD</span>
+
+<p>
+
+Created social media content using Canva, planned content calendars, researched hashtags and developed content strategies for Facebook and Instagram to improve audience engagement. :contentReference[oaicite:2]{index=2}
+
+</p>
+
+</div>
+
+<div class="timeline-box" data-aos="fade-up">
+
+<h3>SEO Practical Project</h3>
+
+<span>Corvit System FSD</span>
+
+<p>
+
+Practiced keyword research, meta titles, meta descriptions and basic on-page SEO techniques to improve website visibility through course-based practical projects. :contentReference[oaicite:3]{index=3}
+
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- =========================
+EDUCATION
+========================= -->
+
+<section class="section" id="education">
+
+<div class="container">
+
+<div class="section-title">
+
+<h2>Education</h2>
+
+</div>
+
+<div class="timeline">
+
+<div class="timeline-box" data-aos="fade-up">
+
+<h3>BS Computer Science</h3>
+
+<span>2019 – 2023</span>
+
+<p>
+
+Government College University Faisalabad. Graduated with a strong interest in technology, software and continuous learning. :contentReference[oaicite:4]{index=4}
+
+</p>
+
+</div>
+
+<div class="timeline-box" data-aos="fade-up">
+
+<h3>E-Commerce & Digital Marketing</h3>
+
+<span>2026</span>
+
+<p>
+
+Completed professional training at Corvit System Faisalabad with practical experience in Shopify Store Development, Product Listing, Social Media Marketing, Meta Pixel Integration and Basic SEO. :contentReference[oaicite:5]{index=5}
+
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+<!-- =========================
+FEATURED PROJECT
+========================= -->
+
+<section class="section" id="project">
+
+<div class="container">
+
+<div class="section-title">
+
+<h2>Featured Project</h2>
+
+</div>
+
+<div class="project-card" data-aos="fade-up">
+
+<div class="project-image">
+
+<img src="images/ahana-home.png" alt="Ahana Collection Store">
+
+</div>
+
+<div class="project-info">
+
+<h3>Ahana Collection</h3>
+
+<p>
+
+Ahana Collection is a live Shopify e-commerce store developed during my practical training. The project includes theme customization, product listing, collections, responsive pages, Meta Pixel integration and basic SEO optimization to provide a better shopping experience.
+
+</p>
+
+<div class="project-tags">
+
+<span>Shopify</span>
+
+<span>E-Commerce</span>
+
+<span>Meta Pixel</span>
+
+<span>Basic SEO</span>
+
+<span>Canva</span>
+
+</div>
+
+<div class="project-buttons">
+
+<a href="https://ahanacollection.store/" target="_blank" class="btn">
+
+Visit Live Store
+
+</a>
+
+<a href="images/cv.pdf" download class="btn-outline">
+
+Download CV
+
+</a>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- =========================
+CERTIFICATES
+========================= -->
+
+<section class="section" id="certificates">
+
+<div class="container">
+
+<div class="section-title">
+
+<h2>Certificates</h2>
+
+</div>
+
+<div class="skills-grid">
+
+<div class="skill-card" data-aos="zoom-in">
+
+<i class="fa-solid fa-award"></i>
+
+<h3>E-Commerce & Digital Marketing</h3>
+
+<p>
+
+Corvit System Faisalabad
+
+</p>
+
+</div>
+
+<div class="skill-card" data-aos="zoom-in">
+
+<i class="fa-brands fa-shopify"></i>
+
+<h3>Shopify Store Development</h3>
+
+<p>
+
+Practical Project Based Training
+
+</p>
+
+</div>
+
+<div class="skill-card" data-aos="zoom-in">
+
+<i class="fa-solid fa-chart-line"></i>
+
+<h3>Basic SEO</h3>
+
+<p>
+
+Keyword Research & On-Page SEO
+
+</p>
+
+</div>
+
+<div class="skill-card" data-aos="zoom-in">
+
+<i class="fa-brands fa-meta"></i>
+
+<h3>Meta Pixel Setup</h3>
+
+<p>
+
+Facebook & Instagram Pixel Integration
+
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+<!-- =========================
+CONTACT
+========================= -->
+
+<section class="section" id="contact">
+
+<div class="container">
+
+<div class="section-title">
+
+<h2>Contact Me</h2>
+
+</div>
+
+<div class="contact-grid">
+
+<div class="contact-card" data-aos="fade-up">
+
+<i class="fa-solid fa-phone"></i>
+
+<h3>Phone</h3>
+
+<p>+92 340 8082522</p>
+
+</div>
+
+<div class="contact-card" data-aos="fade-up" data-aos-delay="100">
+
+<i class="fa-solid fa-envelope"></i>
+
+<h3>Email</h3>
+
+<p>ahanajutt600@gmail.com</p>
+
+</div>
+
+<div class="contact-card" data-aos="fade-up" data-aos-delay="200">
+
+<i class="fa-solid fa-location-dot"></i>
+
+<h3>Location</h3>
+
+<p>Chak No. 280 JB Duggal, Pakistan</p>
+
+</div>
+
+</div>
+
+<div class="contact-buttons">
+
+<a href="mailto:ahanajutt600@gmail.com" class="btn">
+
+Email Me
+
+</a>
+
+<a href="images/cv.pdf" download class="btn-outline">
+
+Download CV
+
+</a>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- =========================
+FOOTER
+========================= -->
+
+<footer>
+
+<div class="container">
+
+<h3>Amna Khalid</h3>
+
+<p>
+
+Digital Marketing Portfolio
+
+</p>
+
+<p>
+
+© 2026 All Rights Reserved.
+
+</p>
+
+</div>
+
+</footer>
+
+<!-- =========================
+BACK TO TOP
+========================= -->
+
+<button id="topBtn">
+
+<i class="fa-solid fa-arrow-up"></i>
+
+</button>
+
+<!-- =========================
+SCRIPTS
+========================= -->
+
+<script src="https://unpkg.com/aos@2.3.4/dist/aos.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+
+<script src="script.js"></script>
+
+</body>
+
+</html>
