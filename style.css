@@ -208,26 +208,30 @@ BUTTONS
 ==================================*/
 
 .btn{
-
-display:inline-block;
-
-padding:14px 34px;
-
-background:#b58d5a;
-
-color:#fff;
-
-text-decoration:none;
-
-border-radius:40px;
-
-font-weight:600;
-
-transition:.35s;
-
-border:2px solid #b58d5a;
-
+ display:inline-block;
+    width:auto;
+    padding:14px 34px;
+    background:#b58d5a;
+    color:#fff;
+    text-decoration:none;
+    border-radius:40px;
+    font-weight:600;
+    transition:.35s;
+    border:2px solid #b58d5a;
 }
+
+.btn-outline{
+    display:inline-block;
+    width:auto;
+    padding:14px 34px;
+    border:2px solid #b58d5a;
+    color:#b58d5a;
+    text-decoration:none;
+    border-radius:40px;
+    font-weight:600;
+    margin-left:15px;
+    transition:.35s;
+
 
 .btn:hover{
 
@@ -1173,11 +1177,11 @@ padding:22px;
     align-items:center;
 }
 
-.contact-buttons .btn,
-.contact-buttons .btn-outline{
-    width:260px;
-    margin:0;
-    text-align:center;
+.contact-buttons{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    gap:15px;
+    margin-top:25px;
 }
 
-}
