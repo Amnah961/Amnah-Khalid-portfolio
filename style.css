@@ -1156,8 +1156,17 @@ padding:25px;
 padding:22px;
 
 }
-
 .contact-card{
+    text-align: center;
+}
+
+.contact-card h3{
+    text-align: center;
+}
+
+.contact-card p{
+    text-align: center;
+}
 
 padding:25px 20px;
 
@@ -1176,7 +1185,4 @@ margin:8px 0;
 }
 
 }
-p{
-    text-align: justify;
-    line-height: 1.8;
-}
+
