@@ -1157,32 +1157,27 @@ padding:22px;
 
 }
 .contact-card{
-    text-align: center;
+    text-align:center;
 }
 
 .contact-card h3{
-    text-align: center;
+    text-align:center;
 }
 
 .contact-card p{
-    text-align: center;
+    text-align:center;
 }
 
-padding:25px 20px;
-
+.contact-buttons{
+    flex-direction:column;
+    align-items:center;
 }
 
-.btn,
-
-.btn-outline{
-
-width:100%;
-
-text-align:center;
-
-margin:8px 0;
-
+.contact-buttons .btn,
+.contact-buttons .btn-outline{
+    width:260px;
+    margin:0;
+    text-align:center;
 }
 
 }
-
