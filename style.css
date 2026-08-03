@@ -466,17 +466,13 @@ margin-bottom:22px;
 min-height:45px;
 
 }
-
 .hero p{
-    font-size:17px;
-    color:#555;
-    margin-bottom:35px;
-    max-width:1000px;
-    line-height:1.8;
+    margin:25px 0;
+    color:var(--text);
+    font-size:18px;
+    line-height:1.9;
     text-align:justify;
-    text-justify:inter-word;
 }
-
 .hero-buttons{
 
 display:flex;
@@ -597,19 +593,13 @@ transition:.35s;
 transform:translateY(-8px);
 
 }
-
 .about-card p{
-
-font-size:16px;
-
-color:#555;
-
-margin-bottom:20px;
-
-text-align:justify;
-
+    color:var(--text);
+    font-size:17px;
+    margin-bottom:20px;
+    text-align:justify;
+    line-height:1.8;
 }
-
 .about-card p:last-child{
 
 margin-bottom:0;
@@ -791,15 +781,10 @@ font-weight:600;
 color:#b58d5a;
 
 }
-
 .timeline-box p{
-
-font-size:15px;
-
-color:#555;
-
-line-height:1.8;
-
+    color:var(--text);
+    text-align:justify;
+    line-height:1.8;
 }
 
 /*==================================
@@ -898,19 +883,12 @@ margin-bottom:20px;
 color:#2f2f2f;
 
 }
-
 .project-info p{
-
-font-size:16px;
-
-color:#555;
-
-line-height:1.8;
-
-margin-bottom:25px;
-
+    color:var(--text);
+    margin-bottom:25px;
+    text-align:justify;
+    line-height:1.8;
 }
-
 .project-tags{
 
 display:flex;
@@ -1197,4 +1175,8 @@ margin:8px 0;
 
 }
 
+}
+p{
+    text-align: justify;
+    line-height: 1.8;
 }
